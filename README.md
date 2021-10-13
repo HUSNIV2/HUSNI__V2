@@ -4,13 +4,13 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/w0Q2QnG"><img src="https://i.ibb.co/88RdR20/Pics-Art-10-01-06-55.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/w0Q2QnG"><img src="Husni.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="jinusir_v2" src="https://img.shields.io/badge/-jinu-red?&style=for-the-badge"></a>
+<a href="#"><img title="jinusir_v2" src="Husni.jpg"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/jinusir1"><img title="jinu" src="https://img.shields.io/badge/author-jinu001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/jinusir1"><img title="jinu" src=""></a>
 
 </div>
 <p align="center">
@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 
 <p align="center">
 
-<a href="https://jinu.code.blog/" target="blank"><img align="center" src="https://i.ibb.co/bvSjPGt/download.png" height="45" width="90" /></a>
+<a href="https://jinu.code.blog/" target="blank"><img align="center" src="" height="45" width="90" /></a>
 ```
   
 jinusir_v2 Userbot is Open Source software open to development. 
