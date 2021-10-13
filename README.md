@@ -1,16 +1,16 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+jinu_v2+WA+Bot...;Created+by+jinu....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Husni_v2+WA+Bot...;Created+by+Husni...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://ibb.co/w0Q2QnG"><img src="Husni.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="jinusir_v2" src="Husni.jpg"></a>
+<a href="#"><img title="Husni_v2" src="></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/jinusir1"><img title="jinu" src=""></a>
+<a href="https://github.com/HUSNIV2"><img title="HUSNI" src=""></a>
 
 </div>
 <p align="center">
