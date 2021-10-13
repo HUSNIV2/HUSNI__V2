@@ -43,9 +43,13 @@ Project created by <a href="https://github.com/HUSNIV2">husni</a> to make it pub
 
 </p>
 
+<p align="center">husni official website:</h4>
+
 <p align="center">
+
+<a href="https://mubarakgaming.blogspot.com/" target="blank"><img align="center" src="" height="45" width="90" /></a>
 ```
-  
+
 HUSNI__V2 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
