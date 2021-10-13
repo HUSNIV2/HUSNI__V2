@@ -135,9 +135,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![HUSNI](Husni.jpg?size=100)](https://github.com/HUSNIV2)
+  [HUSNI](Husni.jpg?size=100)](https://github.com/HUSNIV2)
 
-[jinu](https://github.com/HUSNIV2)  
+[HUSNI](https://github.com/HUSNIV2)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
