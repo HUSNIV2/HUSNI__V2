@@ -43,11 +43,7 @@ Project created by <a href="https://github.com/HUSNIV2">husni</a> to make it pub
 
 </p>
 
-<h4 align="center">Husni official website:</h4>
-
 <p align="center">
-
-<a href="mubarakgaming.blogspot.com" target="blank"><img align="center" src="" height="45" width="90" /></a>
 ```
   
 HUSNI__V2 Userbot is Open Source software open to development. 
